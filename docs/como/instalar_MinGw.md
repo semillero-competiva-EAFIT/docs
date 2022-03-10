@@ -54,7 +54,7 @@
 
 12. Abre editor de variables de entorno
 
-![buscar variables entorno](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/151.PNG)
+![buscar variables entorno](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/151.png)
 
 
 13. Una vez abierto dale editar
@@ -77,7 +77,7 @@
 
 17. Abre la consola para verificar
 
-![cmd](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/cmd.PNG)
+![cmd](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/cmd.png)
 
 18. ejecuta "g++ --version"
 
