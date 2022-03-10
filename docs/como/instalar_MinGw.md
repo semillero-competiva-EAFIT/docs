@@ -1,10 +1,10 @@
 # Como instalar el compilador de c++, g++ mediante mingw
 
-1. Entras a [https://sourceforge.net/projects/mingw/](https://sourceforge.net/projects/mingw/) y das descargar
+1. Entras a [https://sourceforge.net/projects/mingw/](https://sourceforge.net/projects/mingw/) y das descargar.
 
 ![instalar](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/1.PNG)
 
-2. Guardas el acrhivo
+2. Guardas el archivo
 
 ![guardar](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/2.PNG)
 
@@ -36,7 +36,7 @@
 
 ![aplicar](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/92.PNG)
 
-9. click al rectangulo azul
+9. Click al rectangulo azul
 
 ![siguiente4](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/10.PNG)
 
@@ -52,7 +52,7 @@
 
 ![cierre2](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/14.PNG)
 
-12. Abre editor de variables de entorno
+12. Abre el editor de variables de entorno
 
 ![buscar variables entorno](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/151.png)
 
@@ -75,7 +75,7 @@
 
 16. Reinicia 
 
-17. Abre la consola para verificar
+17. Abre la consola para verificar , ejecuta cmd
 
 ![cmd](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/mingw/cmd.png)
 
