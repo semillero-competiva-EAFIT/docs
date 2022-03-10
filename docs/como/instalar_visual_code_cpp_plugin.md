@@ -1,3 +1,15 @@
 # Como instalar  visual estudio code
 
-1. entras a https://code.visualstudio.com/ y escojes tu sistema operativo, o directamente si tienes windows vas a [https://code.visualstudio.com/docs/?dv=win32user](https://code.visualstudio.com/docs/?dv=win32user) 
+0. **se debe tener instalado visual studio code y tener el compilador de c++**
+
+instale visual studio code [aqui](https://github.com/semillero-competiva-EAFIT/docs/blob/main/docs/como/instalar_visual_code.md)
+
+1. Abre Visual studio code
+
+2. Ve a extenciones
+
+3. Busca "C++"
+
+4. Escoje el que solo diga c++
+
+5. Seleciona instalar

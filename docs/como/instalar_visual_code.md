@@ -1,8 +1,9 @@
 # Como instalar  visual estudio code
 
-1. entras a https://code.visualstudio.com/ y escojes tu sistema operativo, o directamente si tienes windows vas a [https://code.visualstudio.com/docs/?dv=win32user](https://code.visualstudio.com/docs/?dv=win32user) 
+1. entras a [https://code.visualstudio.com/](https://code.visualstudio.com/) y escojes tu sistema operativo, o directamente si tienes windows vas a [https://code.visualstudio.com/docs/?dv=win32user](https://code.visualstudio.com/docs/?dv=win32user) 
 
 ![pagina vscode](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/1.PNG)
+
 
 ![pagina vscode](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/2.PNG)
 
@@ -28,7 +29,7 @@
 
 7. le das siguiente
 
-![](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/8.PNG)
+![siguiente](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/8.PNG)
 
 9. no dejes ningun cuadro vacio , esto es para poder evitar problemas e incomodidades a futuro. (como el del path, flecha azul)
 
@@ -38,14 +39,15 @@
 
 ![instalar](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/10.PNG)
 
+
 ![instalando](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/11.PNG)
 
 11. ya quedo instalado 
 
 ![instalando](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/12.PNG)
 
-12. reinicia tu pc y abre vscode
+12. reinicia tu pc y 
 
-![](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/13.PNG)
+13. abre vscode ya quedo instladado, ahora dejate llevar...
 
-13. ya quedo instladado
+![fin](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/vscode/13.PNG)
