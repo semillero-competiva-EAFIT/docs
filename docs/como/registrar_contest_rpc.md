@@ -2,10 +2,10 @@
 
 1. Entras a la pagina de [http://registro.redprogramacioncompetitiva.com/](http://registro.redprogramacioncompetitiva.com/) y das click en Sing Up
 
-![signup](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/rpc/1.jpeg)
+![signup](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/rpc/1.jpg)
 
 2. ingresas los datos de los participantes y de tu equipo
-![teams](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/rpc/2.jpeg)
+![teams](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/rpc/2.jpg)
 
 3. Ya quedo tu equipo
 
@@ -19,7 +19,7 @@
 
 ![inscripcion](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/rpc/5.jpg)
 
-6. Ya quedaste inscrito
+6. **Ya quedaste inscrito**
 
 ![registro](https://raw.githubusercontent.com/semillero-competiva-EAFIT/docs/main/misc/img/rpc/6.jpg)
 
