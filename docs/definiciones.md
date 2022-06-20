@@ -1,5 +1,13 @@
 #definiciones
 
+### BIT
+
+Abreviatura de binary indexed Tree o Fenwick Tree
+
+### BitShift
+
+Agregarle i ceros al numero binario 
+
 ### Contest
 
 Abreviatura de competnecia
@@ -13,6 +21,10 @@ Concurso Internacional de Programación Colegial
 ### LCS
 
 Abreviatura de los problemas Longest common subsequence 
+
+### SGT
+
+Abreviatura de Segment Tree
 
 ### Shiftiar
 
