@@ -14,4 +14,8 @@ contiene procesos como:
 
 **CodeForces:**
 
-- registrar equipo [ver mas](https://github.com/semillero-competiva-EAFIT/docs/blob/main/docs/como/participar_contest.md)
+- registrar equipo [ver mas](https://github.com/semillero-competiva-EAFIT/docs/blob/main/docs/como/participar_contest_codeforces.md)
+
+**RPC**
+
+- registrarse [ver mas](https://github.com/semillero-competiva-EAFIT/docs/blob/main/docs/como/registrar_contest_rpc.md)
